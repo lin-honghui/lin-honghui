@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![lin-honghui's github stats](https://github-readme-stats.vercel.app/api?username=lin-honghui&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 <!--
 **lin-honghui/lin-honghui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
